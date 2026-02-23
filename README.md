@@ -3,7 +3,7 @@
 <p align="left">
   AR :round_pushpin: Argentina | Software Developer · Systems Analyst · IT Technician 
 </p>
-<p align="right">
+<p align="left">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -28,6 +28,6 @@
 </p>
 
 ## Contact
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/murra)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>](https://github.com/matiexe)
 
-LinkedIn: https://linkedin.com/in/murra  
-GitHub: https://github.com/matiexe
