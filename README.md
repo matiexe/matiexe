@@ -17,6 +17,7 @@
 
 - 🧮 [IIGGApp](https://iiggapp.vercel.app/) Income tax calculation and management application.
 - :money_with_wings: [Salary Increase Calculator](https://calculadora-de-aumento-salarial-vs-inflaci-n-540898863765.us-west1.run.app/) Calculates the percentage increase and compares the raise against the accumulated inflation over the last three months.
+- 🏦[Open Bcra](https://open-bcra.mexxtz.dev/) Application with open data from BCRA API
 
 
 ## GitHub Stats
